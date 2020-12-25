@@ -1,0 +1,73 @@
+[
+  {
+    "question": "What is your favourite color ?",
+    "optionA": "Black",
+    "optionB": "White",
+    "optionC": "Yellow",
+    "optionD": "Red",
+    "answer": "100 degrees Celcius"
+  },
+
+  {
+    "question": "How much money to you spend approximetly on clothes per month?",
+    "optionA": "below 100",
+    "optionB": "between 100 && 300",
+    "optionC": "between 300 && 500",
+    "optionD": "over 500",
+    "answer": "William Shakespeare"
+  },
+
+  {
+    "question": "How many times do you go for shopping per month?",
+    "optionA": "1",
+    "optionB": "2",
+    "optionC": "3",
+    "optionD": "over 3",
+    "answer": "Alarm Clock"
+  },
+
+  {
+    "question": "Do you consider yourself a fan of fashion?",
+    "optionA": "not really",
+    "optionB": "a little bit",
+    "optionC": "average",
+    "optionD": "yes",
+    "answer": "Elephant"
+  },
+
+  {
+    "question": "How can you describe your personality?",
+    "optionA": "reluctant,low self-confidence",
+    "optionB": "showman",
+    "optionC": "chic,fashionable",
+    "optionD": "simple",
+    "answer": "Sherlock Holmes"
+  },
+
+  {
+    "question": "Your dominate accessorie?",
+    "optionA": "Hoodie",
+    "optionB": "Shirts",
+    "optionC": "Jacket",
+    "optionD": "Sneakers",
+    "answer": "Black and White"
+  },
+
+  {
+    "question": "Your preferable outwearTry?",
+    "optionA": "Hoodie",
+    "optionB": "Shirts",
+    "optionC": "Jacket",
+    "optionD": "Sneakers",
+    "answer": "The Ear"
+  },
+
+  {
+    "question": "Your steroitype?",
+    "optionA": "businessMan",
+    "optionB": "artist",
+    "optionC": "athlete",
+    "optionD": "Rockstar",
+    "answer": "100"
+  }
+]
